@@ -1,0 +1,42 @@
+OBJECTID,Cod,Nome,Flg_ATM,Flg_Bicicl,Flg_Elevad,Flg_Linha1,Flg_Linha2,Obs,Flg_Ativa,Status,Data_Inc,Flg_Linha4,Integra_Tr,Integra_On,Integra_BR,Corredor,Integra_VL,Onibus,Flg_Metro_,Metro_Supe,Data_Inaug,X,Y
+"1","1",Pavuna,Sim,Sim,Sim,Não,Sim,,Sim,,,Não,Sim,Não,Não,,Não,,Não,,"1998",-43.365,-22.807
+"2","2",Engenheiro Rubens Paiva,Sim,Sim,Sim,Não,Sim,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"1998",-43.358,-22.816
+"3","3",Acari / Fazenda Botafogo,Não,Não,Não,Não,Sim,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"1998",-43.350,-22.825
+"4","4",Coelho Neto,Sim,Não,Não,Não,Sim,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"1998",-43.343,-22.831
+"5","5",Colégio,Sim,Sim,Não,Não,Sim,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"1998",-43.334,-22.843
+"6","6",Irajá,Sim,Sim,Sim,Não,Sim,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"1998",-43.323,-22.848
+"7","7",Vicente de Carvalho,Sim,Sim,Não,Não,Sim,,Sim,,,Não,Não,Não,Sim,Transcarioca,Não,,Não,,"1996",-43.313,-22.854
+"8","8",Tomaz Coelho,Não,Não,Sim,Não,Sim,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"1996",-43.307,-22.862
+"9","9",Engenho da Rainha,Sim,Não,Não,Não,Sim,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"1991",-43.297,-22.868
+"10","10",Inhauma,Sim,Sim,Sim,Não,Sim,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"1983",-43.283,-22.875
+"11","11",Del Castilho,Sim,Não,Sim,Não,Sim,,Sim,,,Não,Não,Sim,Não,,Não,"Fundão, Jacarepaguá, Barra",Não,,"1983",-43.272,-22.879
+"12","12",Maria da Graça,Sim,Não,Não,Não,Sim,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"1983",-43.260,-22.882
+"13","13",Triagem,Sim,Sim,Não,Não,Sim,,Sim,,,Não,Sim,Não,Não,,Não,,Não,,"1988",-43.244,-22.897
+"14","14",Maracanã,Sim,Não,Não,Não,Sim,,Sim,,,Não,Sim,Não,Não,,Não,,Não,,"1981",-43.234,-22.910
+"15","15",São Cristóvão,Sim,Não,Não,Não,Sim,,Sim,,,Não,Sim,Não,Não,,Não,,Não,,"1981",-43.222,-22.910
+"16","16",Estácio,Sim,Sim,Sim,Sim,Não,Estação de transferência entre as Linhas 1 e 2,Sim,,,Não,Não,Sim,Não,,Não,"Caju, Rodoviária",Não,,"1980",-43.207,-22.913
+"17","17",Saens Peña,Sim,Não,Sim,Sim,Não,,Sim,,,Não,Não,Sim,Não,,Não,"Usina, Muda, Grajaú, Andaraí",Não,,"1982",-43.232,-22.924
+"18","18",São Francisco Xavier,Sim,Sim,Não,Sim,Não,,Sim,,,Não,Não,Sim,Não,,Não,"Vila Isabel, Méier",Não,,"1982",-43.224,-22.921
+"19","19",Afonso Pena,Sim,Não,Não,Sim,Não,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"1982",-43.218,-22.918
+"20","21",Central,Sim,Não,Não,Sim,Sim,Estação com Posto de Gratuidade,Sim,,,Não,Sim,Não,Não,,Não,,Não,,"1979",-43.192,-22.905
+"21","22",Presidente Vargas,Sim,Não,Não,Sim,Sim,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"1979",-43.186,-22.903
+"22","23",Uruguaiana,Sim,Não,Não,Sim,Sim,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"1980",-43.181,-22.903
+"23","24",Carioca,Sim,Não,Sim,Sim,Sim,Estação com Achados e Perdidos,Sim,,,Não,Não,Não,Não,,Sim,,Não,,"1981",-43.178,-22.907
+"24","25",Cinelândia,Sim,Não,Não,Sim,Sim,,Sim,,,Não,Não,Não,Não,,Sim,,Não,,"1979",-43.175,-22.912
+"25","26",Glória,Sim,Sim,Não,Sim,Sim,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"1979",-43.177,-22.920
+"26","27",Catete,Sim,Sim,Não,Sim,Sim,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"1981",-43.177,-22.926
+"27","28",Largo do Machado,Sim,Não,Sim,Sim,Sim,,Sim,,,Não,Não,Sim,Não,,Não,"Laranjeiras, Cosme Velho, Rodoviária",Não,,"1981",-43.178,-22.931
+"28","29",Flamengo,Sim,Não,Sim,Sim,Sim,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"1981",-43.179,-22.938
+"29","30",Botafogo,Sim,Não,Sim,Sim,Sim,,Sim,,,Não,Não,Sim,Não,,Não,Urca,Sim,Gávea,"1981",-43.184,-22.951
+"30","31",Cardeal Arcoverde,Sim,Não,Não,Sim,Não,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"1998",-43.181,-22.965
+"31","32",Siqueira Campos,Sim,Sim,Não,Sim,Não,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"2003",-43.187,-22.967
+"32","33",Praca Onze,Sim,Não,Não,Sim,Não,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"1979",-43.200,-22.910
+"33","34",Cantagalo,Sim,Sim,Sim,Sim,Não,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"2007",-43.194,-22.977
+"34","35",Cidade Nova,Sim,Não,Sim,Não,Sim,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"2009",-43.206,-22.909
+"35","36",Ipanema / General Osório,Sim,Sim,Não,Sim,Não,,Sim,,,Sim,Não,Não,Não,,Não,,Sim,Gávea,"2009",-43.197,-22.985
+"36","37",Uruguai,Não,Sim,Não,Sim,Não,,Sim,,,Não,Não,Não,Não,,Não,,Não,,"2014",-43.240,-22.932
+"37","38",Nossa Senhora da Paz,Sim,,Sim,Não,Não,Nova Linha 4,Sim,,,Sim,Não,Não,Não,,Não,,Não,,"2016",-43.207,-22.984
+"38","39",Jardim de Alah,Sim,,Sim,Não,Não,Nova Linha 4,Sim,,,Sim,Não,Não,Não,,Não,,Não,,"2016",-43.215,-22.983
+"39","40",Antero de Quental,Sim,,Sim,Não,Não,Nova Linha 4,Sim,,,Sim,Não,Não,Não,,Não,,Não,,"2016",-43.223,-22.985
+"40","41",São Conrado,Sim,,,Não,Não,Nova Linha 4,Sim,,,Sim,Não,Não,Não,,Não,,Não,,"2016",-43.254,-22.992
+"41","42",Jardim Oceânico,Sim,,Sim,Não,Não,Nova Linha 4,Sim,,,Sim,Não,Não,Sim,Transoeste,Não,,Não,,"2016",-43.311,-23.007
